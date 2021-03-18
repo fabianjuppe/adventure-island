@@ -17,5 +17,5 @@ The full game partially contains paid assets and therefore cannot be open source
 
 On Autumn Island, players can immerse themselves in a world full of magic and use four elements to solve challenging puzzles in the colorful world of autumn.<br />
 
-Freshly arrived on Autumn Island, the player must use the power of the wind to overcome a ravine and open the way to the village. There, two more challenging puzzles await him. One a fiery experience and the other a shocking one. If he masters the challenge, he must not be afraid of water in order to obtain the missing key. He uses these to reach an ancient portal and thus step into the next season.
+Freshly arrived on Autumn Island, players must use the power of the wind to overcome a ravine and open the way to the village. There, two more challenging puzzles await them. One a fiery experience and the other a shocking one. If they master the challenge, they must not be afraid of water in order to obtain the missing keys. They use these to reach an ancient portal and thus step into the next season.
 </p>
